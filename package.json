@@ -1,0 +1,18 @@
+{
+  "name": "strattopay-backend",
+  "version": "1.0.0",
+  "description": "Strattopay is a secure, scalable remittance platform that allows users to send money globally with live currency conversion and gamified reward features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3"
+  }
+}
